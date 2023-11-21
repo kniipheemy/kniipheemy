@@ -6,7 +6,7 @@
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/oluwanifemi-fasunhan-pmiim-47624039/)
 - 📫 How to reach me [twitter](https://twitter.com/Kniipheemy1)
 
-Compentency
+## 💼 Compentency #
 
 - Microsoft Excel
 - Debt collector
