@@ -7,8 +7,11 @@
 - 📫 How to reach me [twitter](https://twitter.com/Kniipheemy1)
 
 Compentency
+
 - Microsoft Excel
+- Debt collector
 - Event organisation
+- Trouble shooter
 <!---
 kniipheemy/kniipheemy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
