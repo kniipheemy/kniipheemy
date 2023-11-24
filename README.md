@@ -8,11 +8,13 @@
 
 ## 💼 Compentency #
 
-- Microsoft Excel
+- 💻Microsoft Excel
 - Debt collector
-- Event organisation
 - Trouble shooter
+- Enthusiastic organiser
+- 
 <!---
 kniipheemy/kniipheemy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ 
